@@ -1,0 +1,12 @@
+D:\projects\DataDetectionSystem\Model\bin\Release\Model.dll
+D:\projects\DataDetectionSystem\Model\bin\Release\Model.pdb
+D:\projects\DataDetectionSystem\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+D:\projects\DataDetectionSystem\Model\obj\Release\Model.dll
+D:\projects\DataDetectionSystem\Model\obj\Release\Model.pdb
+D:\projects\DataDetectionSystem\Model\obj\Release\Model.csprojAssemblyReference.cache
+E:\kunjue\DataDetectionSystem\FileScan\DataDetectionSystem\Model\bin\Release\Model.dll
+E:\kunjue\DataDetectionSystem\FileScan\DataDetectionSystem\Model\bin\Release\Model.pdb
+E:\kunjue\DataDetectionSystem\FileScan\DataDetectionSystem\Model\obj\Release\Model.csprojAssemblyReference.cache
+E:\kunjue\DataDetectionSystem\FileScan\DataDetectionSystem\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+E:\kunjue\DataDetectionSystem\FileScan\DataDetectionSystem\Model\obj\Release\Model.dll
+E:\kunjue\DataDetectionSystem\FileScan\DataDetectionSystem\Model\obj\Release\Model.pdb

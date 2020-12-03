@@ -1,0 +1,9 @@
+C:\Users\tx291\source\repos\DataDetectionSystem\DataDetectionSystem\bin\Debug\DataDetectionSystem.exe.config
+C:\Users\tx291\source\repos\DataDetectionSystem\DataDetectionSystem\bin\Debug\DataDetectionSystem.exe
+C:\Users\tx291\source\repos\DataDetectionSystem\DataDetectionSystem\bin\Debug\DataDetectionSystem.pdb
+C:\Users\tx291\source\repos\DataDetectionSystem\DataDetectionSystem\obj\Debug\DataDetectionSystem.csprojAssemblyReference.cache
+C:\Users\tx291\source\repos\DataDetectionSystem\DataDetectionSystem\obj\Debug\DataDetectionSystem.Index.resources
+C:\Users\tx291\source\repos\DataDetectionSystem\DataDetectionSystem\obj\Debug\DataDetectionSystem.Properties.Resources.resources
+C:\Users\tx291\source\repos\DataDetectionSystem\DataDetectionSystem\obj\Debug\DataDetectionSystem.csproj.GenerateResource.cache
+C:\Users\tx291\source\repos\DataDetectionSystem\DataDetectionSystem\obj\Debug\DataDetectionSystem.exe
+C:\Users\tx291\source\repos\DataDetectionSystem\DataDetectionSystem\obj\Debug\DataDetectionSystem.pdb

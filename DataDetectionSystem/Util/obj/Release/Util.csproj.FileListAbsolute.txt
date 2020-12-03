@@ -1,0 +1,5 @@
+D:\projects\DataDetectionSystem\Util\bin\Release\Util.dll
+D:\projects\DataDetectionSystem\Util\bin\Release\Util.pdb
+D:\projects\DataDetectionSystem\Util\obj\Release\Util.csproj.CoreCompileInputs.cache
+D:\projects\DataDetectionSystem\Util\obj\Release\Util.dll
+D:\projects\DataDetectionSystem\Util\obj\Release\Util.pdb
